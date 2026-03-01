@@ -1,0 +1,63 @@
+<data>
+    <item id='01'>
+        <sales>35</sales>
+        <color>#ee4339</color>
+        <month>Jan</month>
+    </item>
+    <item id='02'>
+        <sales>20</sales>
+        <color>#ee9336</color>
+        <month>Feb</month>
+    </item>
+    <item id='03'>
+        <sales>24</sales>
+        <color>#eed236</color>
+        <month>Mar</month>
+    </item>
+    <item id='04'>
+        <sales>10</sales>
+        <color>#d3ee36</color>
+        <month>Apr</month>
+    </item>
+    <item id='05'>
+        <sales>12</sales>
+        <color>#a7ee70</color>
+        <month>May</month>
+    </item>
+    <item id='06'>
+        <sales>23</sales>
+        <color>#58dccd</color>
+        <month>Jun</month>
+    </item>
+    <!--<item id='07'>
+        <sales>12</sales>
+        <color>#36abee</color>
+        <month>Jul</month>
+    </item>
+    <item id='08'>
+        <sales>27</sales>
+        <color>#476cee</color>
+        <month>Aug</month>
+    </item>
+    <item id='09'>
+        <sales>33</sales>
+        <color>#a244ea</color>
+        <month>Sep</month>
+    </item>
+    <item id='10'>
+        <sales>14</sales>
+        <color>#e33fc7</color>
+        <month>Oct</month>
+    </item>
+    <item id='11'>
+        <sales>23</sales>
+        <color>#a9ee36</color>
+        <month>Now</month>
+    </item>
+    <item id='12'>
+        <sales>42</sales>
+        <color>#367fee</color>
+        <month>Dec</month>
+    </item>-->
+</data>
+

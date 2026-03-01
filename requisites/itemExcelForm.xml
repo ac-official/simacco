@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item type="settings" position="label-left" labelWidth="130" inputWidth="150" noteWidth="150" offsetLeft="20" />
+    <item type="combo" name="IT_Name" label="Item Name" ></item>
+    <item type="combo" name="SH_Name" label="Subhead" ></item>
+    <item type="combo" name="IT_Comments" label="Remarks" ></item>
+    <item type="combo" name="IT_Business" label="Business Entry" ></item>
+    <item type="combo" name="IT_Transfers" label="Internal Transfers" ></item>
+    <item type="hidden" name="IU_ExcelArray"></item>
+    <item type="button" name="IU_Button" value="Save"/>
+</items>

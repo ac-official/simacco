@@ -1,0 +1,142 @@
+,"Monthly attendance report for September 2025" 
+  
+ SlNo,Name,Branch,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,FD,HD,TL,CL,SL,EL,CW,CWP,SDL,HI,LS,ES,GS,ADV,NS 
+ 1,Aathira Suresh,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,30,22,1,18000,0,15600 
+ 2,Aathira Cholayil,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0 
+ 3,Aavani Cholayil,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0 
+ 4,Abhijith K A,Kochi Main,HI,P,P,HI,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,40,11,2,24000,0,23200 
+ 5,ABIJITH B,Trivandrum Thycaud Near Norka,P,L,P,P,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,0,23,0,14000,0,12133 
+ 6,Achu Soman,Kochi IT department,P,P,P,HI,H,W,S,P,P,P,P,P,W,S,L,P,P,P,P,W,S,P2,P,P,P,P,W,S,P,P,19,1,1.5,0.5,1,0,0,0,0,29,19,1,75000,0,75000 
+ 7,Adithya T,Kochi Main,P,P,L,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,L,S,P,P,P,P,P,P,S,P,P,21,0,6,0,0,0,0,0,6,0,20,0,17500,0,14000 
+ 8,AISWARYA P M,Karingachira Near PSK Kochi New,P,P,P,L,L,L,L,P,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,4,0,26,0,0,0,0,0,26,0,0,0,13000,0,1733 
+ 9,Akhila Bimal,Kochi Main,P,P,P,L,L,P,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,P,P,P,P,L,P,P,10,0,20,0,0,0,0,0,20,0,6,1,16000,0,5333 
+ 10,Alan Robin,Kochi Main,P,L,P,HI,L,L,L,HI,P,HI,L,L,P,L,P,P,P,P,P,L,S,P,HI,P,HI,P,P,S,P,P,20,0,8,0,0,0,0,0,8,42,17,2,18000,0,13200 
+ 11,Alfiya Reji V J,Kochi Main,P,L,L,L,L,L,L,L,P,P,P,P,P,L,L,P,P,P,P,P,L,L,P2,L,L,L,L,L,L,L,11,1,18.5,0,0,0,0,0,18.5,0,0,1,12000,0,4600 
+ 12,Alphia George,Karingachira Near PSK Kochi New,P,P,P,P,P,P,S,P,P,P2,P,P,L,L,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,22,1,5.5,0,0,0,0,0,5.5,0,6,1,18000,0,14700 
+ 13,Amrutha M,Kochi Main,P,P,P,HI,L,L,C,P,P,P,P,P,P,S,P,L,P,P,P,P,L,HI,HI,P,P,P,P,S,HI,HI,24,0,4,0,0,0,1,0,3,47,12,2,24200,0,21780 
+ 14,Anishma M S,Kochi Main,P,P,P,HI,L,P2,L,P,P,P,P,L,P,C,P,P,P,P,P,P,L,L,L,L,L,L,L,L,L,L,16,1,13.5,0,0,0,1,0,12.5,45,5,3,13000,0,7583 
+ 15,Anitha A,Calicut West Hill,P,P,P,P,L,P,S,P,P,HI,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,11,9,0,11000,0,10633 
+ 16,Anitha Praveen,Trivandrum Thycaud Near Norka,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,0,20,40000,0,38667 
+ 17,archana babu,Alappuzha New,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,18,24,0,14200,0,12780 
+ 18,Archana Soi,Delhi DCM New Building,HI,P,HI,P,HI,HI,S,P,L,L,L,L,HI,L,P,L,L,L,HI,HI,L,HI,HI,P,HI,HI,HI,S,HI,P,19,0,9,0,0,0,0,0,9.5,379,19,0,22200,0,15170 
+ 19,Arun Dev P V,Kochi IT department,P,P,P,HI,H,W,S,P,P,P,P,P,W,S,P,P,P,P,P,W,S,P,P,P,P,P,W,S,P,P,21,0,0,0,0,0,0,0,0,14,0,2,68000,0,68000 
+ 20,Aryamol K B,Aluva  KOC,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,P,P,P,P,P,S,P,P,P,P,P,P,S,L,P,12,0,16,0,0,0,0,0,16,0,1,3,15200,0,7093 
+ 21,Ashish A,Delhi DCM New Building,P,P,L,L,L,P,L,P,P,P,P,P,HI,S,P,P,P,HI,P,P,S,P,HI,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,89,2,4,22200,0,19240 
+ 22,Athira E A,Aluva  KOC,P,P,P,P,L,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,18,4,1,10000,0,9667 
+ 23,Athira K,Kannur  KOC,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,0,0,13000,0,12567 
+ 24,Ayana V R,Karingachira Near PSK Kochi New,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,5,0,22000,0,21267 
+ 25,B Sadhana,Hyderabad   KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,HI,P,P,P,S,L,P,P,P,P,P,L,P,P,25,0,2,0,0,0,0,0,2,46,8,0,16000,0,14933 
+ 26,Banavath Leela,Vijayawada  KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,8,1,16500,0,16500 
+ 27,Bhaskar Bikash Dutta,Delhi DCM New Building,P,P,P,P,P,P,S,P,P,P,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,9,0,20,0,0,0,0,0,20,0,0,0,15200,0,5067 
+ 28,Bidisha Chakraborty,Kolkatta,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,HI,L,25,0,1,0,0,0,0,0,1,24,5,1,14000,0,13533 
+ 29,Bilin K Baby,Kochi IT department,P,P,P,HI,H,W,S,L,P,P,P,P,W,S,L,P,P,P,P,W,S,L,P,P,P,P,W,S,P,P,18,0,3,2,1,0,0,0,0,6,0,6,70000,0,70000 
+ 30,Bindu Sundar,Broadway Chennai I  KOC,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,24,0,22000,0,21267 
+ 31,Blesy K C,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,L,S,P,P,P,P,HI,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,56,22,1,35000,0,30333 
+ 32,Chinchu S Kumar,Attingal,P,L,P,P,L,L,L,L,HI,P,HI,P,L,L,P,P,P,P,HI,P,S,HI,HI,HI,P,HI,P,S,L,P,20,0,8,0,0,0,0,0,8,125,3,18,11000,0,8067 
+ 33,CUK ,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,0,0,0 
+ 34,Deneeta Dsouza,Kochi Main,L,P,P,HI,L,HI,L,P,P,P,P,P,P,S,P,L,P,P,P,P,L,P,P,P,P,P,L,S,P,P,22,0,6,0,0,0,0,0,6,43,18,4,24200,0,19360 
+ 35,Devi Priya K,Trichy  KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,16,0,15200,0,15200 
+ 36,Dhanesh Thankappan Thaissery,Mumbai,P,P,P,P,P,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,14,26,1,30000,0,30000 
+ 37,Fazil P A,Aluva  KOC,P,P,P,HI,L,HI,S,P,P,P,L,L,L,L,P,P,P,P,P,L,S,P,P,HI,P,HI,HI,S,HI,P,21,0,6,0,0,0,0,0,6,64,21,0,12000,0,9600 
+ 38,Feba Sibichan,Changanachery,P,P,P,P,P,L,S,P,P,P,P,P,P,S,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,24,1,1.5,0,0,0,0,0,1.5,0,13,9,14000,0,13300 
+ 39,Felicia Joseph,Trivandrum Manacaud UAE Consulate,P,P,HI,P,L,P,S,P,HI,P,P,P,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,5,14,3,17000,0,16433 
+ 40,Front Desk,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,,0, 
+ 41,Geetha Vijayan,Vazhuthacaud TVM,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,L,S,P,P,23,0,4,0,0,0,0,0,4,0,0,0,10000,0,8667 
+ 42,Godwin Raphel,Kochi IT department,L,P,P,L,L,L,L,L,P,P,P,P,W,S,P,P,P,P,L,W,S,P,P,P,P,P,W,S,P,P,17,0,7,1,1,0,0,0,5,0,3,4,23000,0,19167 
+ 43,Hafilue C,Kochi IT department,L,L,L,L,L,L,L,L,L,P,P,P,W,S,P,P,P,P,P,W,S,P,P,P,P,P,W,S,P,P,15,0,9,2,1.5,0,0,0,5.5,0,10,3,30000,0,24500 
+ 44,Hafna T A,Kochi Main,P,P,P,HI,HI,P,S,P,P,P,P,HI,L,S,L,L,P,P,L,L,L,L,P,P,P,P,L,L,L,L,17,0,11,0,0,0,0,0,11,98,0,15,18000,0,11400 
+ 45,Harish Kumar,Delhi DCM New Building,P,P,HI,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P2,L,P,L,L,L,L,L,P,20,1,6.5,0,0,0,0,0,6.5,12,0,12,22200,0,17390 
+ 46,Haritha A,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,HI,P,P,L,P,S,P,P,P,P,P,L,S,P,P2,21,1,5.5,0,0,0,0,0,5.5,25,4,2,16200,0,13230 
+ 47,Harsha Beegam M P,Perinthalmanna  PMNA,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,0,25,13000,0,13000 
+ 48,Haseena Ansari,Kottayam Near PSK,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,25,1,0.5,0,0,0,0,0,0.5,0,3,3,14000,0,13767 
+ 49,Illiyas S,Vidyaranyapura Banglore,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,0,3,22200,0,22200 
+ 50,Indhu K Suresh,Karingachira Near PSK Kochi New,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,P2,L,L,L,L,L,0,1,29.5,0,0,0,0,0,29.5,0,1,0,18000,0,300 
+ 51,Irine Melady,Trichy  KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,26,0,15500,0,15500 
+ 52,IT Admin,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,1,0,1 
+ 53,Jayalakshmi Delhi,Delhi DCM New Building,P,P,P,P,L,P,S,P,P,P,P,P,HI,S,P,L,P,P,P,P,L,HI,HI,P,P,P,L,S,P,P,23,0,4,0,0,0,0,0,4,59,1,22,22200,0,19240 
+ 54,JEEVAN T ANTO,Kochi Main,P,P,P,L,L,P,L,P,P,P,P,P,L,S,P,P,P,L,L,L,L,P,P,P,P,P,L,S,P,L,18,0,10,0,0,0,0,0,10,0,3,2,26000,0,17333 
+ 55,Jiya Mary A J,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P2,L,P,P,P,L,P2,P,21,2,6,0,0,0,0,0,6,30,5,13,16200,0,12960 
+ 56,Jolly C,Kochi Main,P,P,P,HI,L,L,L,P,L,L,L,L,L,L,P,P,P,P,P,HI,S,HI,P,P,P,P,P,S,P,P,19,0,9,0,0,0,0,0,9,48,14,2,18000,0,12600 
+ 57,Joseph C J,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,29,9,3,18000,0,16200 
+ 58,Joyal Mariam Varghese,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,27,0,6,16200,0,14580 
+ 59,Kayalvizhi A,Salem  KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,19,0,12000,0,12000 
+ 60,Krishnapriya Bose,Muvattupuzha   KOC,P,P,P,L,L,P,L,P,P,P,P,P,P2,S,P,P2,P,P,P,P,L,P,P,P,P,L,L,L,P,P,20,2,8,0,0,0,0,0,8,0,5,2,16200,0,11880 
+ 61,Lakshmi V S G,Visakhapatnam  KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,HI,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,1,4,0,14000,0,14000 
+ 62,Lathika Pradeep,Mavelikkara  KOC,P,P,P,L,L,L,L,P,P,P,P,P,HI,S,P,P,P,P,P,P,S,P,P,P,L,P,P,L,P,P,22,0,6,0,0,0,0,0,6,4,20,1,13000,0,10400 
+ 63,Leksmi S K,Neyyattinkara TVM,P,P,P,P,L,L,L,P,P,P,P,P,L,S,L,P,P,P,P,P,L,P,P,P,P,P,P,S,P,P,22,0,6,0,0,0,0,0,6,0,20,0,10000,0,8000 
+ 64,Loycey Logas,Kochi Main,P,P,P,HI,L,P,S,P,P,P,P,P2,P2,S,L,P,P,P,P,P,L,P,P,P,P,P,HI,S,P,P,22,2,4,0,0,0,0,0,4,74,13,4,18000,0,15600 
+ 65,Malavika S R,Neyyattinkara TVM,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,L,S,P,P,P,P,P,P,S,L,P,22,0,5,0,0,0,0,0,5,0,16,0,10000,0,8333 
+ 66,Manisha Sreekrishnan,Karingachira Near PSK Kochi New,P,P,P,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,0,6,0,15200,0,13173 
+ 67,Mary Jinsha A S,Kochi Main,P,P,P,HI,L,HI,C,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,L,P,C,P,P,25,0,3,0,0,0,2,0,1,42,21,3,17000,0,16433 
+ 68,Meenu K B,Kochi Main,L,L,L,HI,L,P,L,P,P,P,P,P,P2,S,P,P,P,P,P2,L,L,P,P,P,P2,P,P2,L,P,L,16,4,11,0,0,0,0,0,11,30,17,6,15200,0,9627 
+ 69,Midhya N,Kochi Main,HI,HI,P,L,L,P,L,L,P,HI,HI,HI,HI,L,P,HI,P,HI,HI,L,S,HI,HI,HI,L,HI,L,L,HI,P,20,0,9,0,0,0,0,0,10,429,12,14,30000,0,30000 
+ 70,Muralidharan Narokkuzhi,Nilambur,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,30000,0,30000 
+ 71,Nandhana Ramesan,Kottayam Near PSK,P,P,P,P,L,P,S,P,P,P,P,P,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,1,15,0,14000,0,13533 
+ 72,Nandhana Chandran,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,L,P2,P,P,P,HI,L,L,P,21,1,6.5,0,0,0,0,0,6.5,40,18,5,17000,0,13317 
+ 73,Nathiya A,Coimbatore   KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,HI,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,4,23,0,15200,0,15200 
+ 74,Nithya V,Calicut West Hill,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,15,0,15200,0,14693 
+ 75,Omana Pradeep,Mumbai,P,P,P,P,P,HI,S,HI,L,P,P,P,P,L,P,P,HI,P,P,P,S,P,P,P,P,P,P,S,P,HI,25,0,2,0,0,0,0,0,2,47,0,25,20500,0,19133 
+ 76,Parvathy Madhavan,Pathanamthitta Near PSK,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,23,1,3.5,0,0,0,0,0,3.5,0,0,17,12000,0,10600 
+ 77,Pooja M Dharan,Kottayam Near PSK,P,P,P,P,L,L,L,P,P,P,P,P,L,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,0,4,0,15200,0,13173 
+ 78,Poornima Kailash Gopale,Pune   MUM,P,P,P,P,P,L,S,P,P,P,L,P,P,L,P,P,P,P,P,P,S,P,P,P,P,P,L,S,P,P,23,0,4,0,0,0,0,0,4,0,22,0,15700,0,13607 
+ 79,Pradeesh G,Aluva  KOC,P,P,P,HI,L,L,L,HI,P,P,HI,HI,P,S,P,P,P,HI,P,HI,S,HI,P,P,P,HI,P,S,HI,HI,24,0,3,0,0,0,0,0,3.5,135,1,24,30000,0,26500 
+ 80,Praveena K U,Aluva  KOC,P,P,P,P,L,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,L,P,P,P,L,P,L,P,P,23,0,4,0,0,0,0,0,4,18,4,1,10000,0,8667 
+ 81,Preetha Kumari V M,Vazhuthacaud TVM,P,P,P,L,L,L,L,P,P,P,P,P,P,S,P,L,P,P,P,P,L,P,P,P,P,P,P,S,P,P,22,0,6,0,0,0,0,0,6,0,19,0,12000,0,9600 
+ 82,Premjeeth A C,Kochi Main,P,P,HI,L,L,L,L,P,P,P,P,P,L,S,P,HI,L,P,P,P,L,P,P,P,P,P,P,S,P,P,21,0,7,0,0,0,0,0,7,81,19,3,40000,0,30667 
+ 83,Rahul Kumar,Lucknow   DEL,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,24,1,1.5,0,0,0,0,0,1.5,0,19,3,17200,0,16340 
+ 84,Rahul Punnasseri,Perinthalmanna  PMNA,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,30000,0,30000 
+ 85,Rejitha Chandran R P,Neyyattinkara TVM,P,L,P,L,L,L,L,P,P,P,P,L,P,S,P,P,P,P,P,L,S,P,P,P,P,P,P,S,P,P,20,0,7,0,0,0,0,0,7,0,2,12,10000,0,7667 
+ 86,Remya V,Vazhuthacaud TVM,L,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P2,P,P,P,P,L,P,P,P,P,P,P,S,P,P,22,1,5.5,0,0,0,0,0,5.5,0,20,1,22200,0,18130 
+ 87,Revathy D,Pondicherry,P,P,P,P,P,L,S,P,P,P,P,P2,P,S,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,23,2,2,0,0,0,0,0,2,0,22,2,13000,0,12133 
+ 88,Rifana Thasni K,Kochi Main,P,P,P,HI,HI,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,HI,L,S,P,P,25,0,1,0,0,0,0,0,1,67,5,2,16200,0,15660 
+ 89,Ritika Mittal,Delhi DCM New Building,P,P,P,P,HI,L,S,P,P,P,P,P,HI,S,P,P,P,P,P,P,S,HI,HI,P,P,P,L,S,P,P,24,0,2,0,0,0,0,0,2,63,2,14,22500,0,21000 
+ 90,ROSE YADAV,Lucknow   DEL,P,P,P,P,L,P,S,P,HI,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,41,23,1,14200,0,13727 
+ 91,Rupali Ankush Satpute,Mumbai,HI,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,P,HI,L,P,S,P,P,P,P,L,L,L,P,P,22,1,4.5,0,0,0,0,0,4.5,6,23,1,13000,0,11050 
+ 92,SAFNA K S,Kochi Main,P,L,P,HI,L,P,L,P,P,P,L,P,HI,L,P,HI,L,P,P,P,L,L,P,P,P,P,P,L,P,HI,21,0,9,0,0,0,0,0,9,58,19,2,17500,0,12250 
+ 93,Sajilamol C,Kochi Main,P,P,P,HI,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,L,L,L,L,L,L,L,L,L,17,0,10,0,0,0,0,0,10,30,12,4,32000,0,21333 
+ 94,Sajini Suresh,Thrissur Near KSRTC  KOC,P,P,P,HI,L,L,L,HI,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,58,24,2,18000,0,16200 
+ 95,Samathani J,Madurai   KOC,P,P,P,P,P,P,S,P,P,HI,HI,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,21,0,24,14000,0,14000 
+ 96,Samit Adhikary,Kolkatta,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,HI,L,25,0,1,0,0,0,0,0,1,24,5,1,17000,0,16433 
+ 97,Sandeep Urogulf,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,1,0,1 
+ 98,Sandhya Anand,Kochi Main,P,P,P,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,0,0,1,22100,0,19153 
+ 99,Santhy S Nair,Karingachira Near PSK Kochi New,L,L,L,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,L,P,S,P,P,P,L,L,P,L,L,L,15,0,13,0,0,0,0,0,13,0,0,0,8000,0,4533 
+ 100,Saranya Raj,Calicut West Hill,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,20,0,15200,0,14693 
+ 101,Sasikumar Urogulf,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,1,0,1 
+ 102,Shaily Krishnakumar,Kottayam Near PSK,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,HI,P,P,L,S,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,11,0,4,15200,0,13173 
+ 103,Shali Louis,Kochi Main,P,P,HI,HI,L,P,S,P,P,P,P,HI,P,S,P,P,P,P,P,P,S,P,P,P,P,P,HI,S,P,P,25,0,1,0,0,0,0,0,1,56,18,2,24200,0,23393 
+ 104,Shally Mary,Kochi Main,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,3,1,24200,0,23393 
+ 105,Shameera C M,Thrissur Near KSRTC  KOC,P,P,P,HI,L,P,S,HI,P,P,P,P,P,S,P,L,L,P,P,P,L,P,P,P,P,P,P,S,P,P,23,0,4,0,0,0,0,0,4,51,22,2,15500,0,13433 
+ 106,Shamla S,Kollam Kadappakkada,HI,P,HI,P,L,P,S,P,P,HI,P,P,HI,S,HI,P,HI,P,P,P,S,HI,P,HI,P,L,HI,S,HI,P,24,0,2,0,0,0,0,0,2,54,0,24,17500,0,16333 
+ 107,Shanavas K A,Aluva  KOC,L,L,L,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,20,0,7,0,0,0,0,0,7,0,20,0,39000,0,29900 
+ 108,Sharun Rajan,Karingachira Near PSK Kochi New,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,16000,0,0 
+ 109,Shibu M S,Kottayam Near PSK,P,P,P,P,L,L,L,P,P,P,P,P,2HI,S,P,P,HI,P,P,L,S,P,HI,P,P,P,L,S,P,P,21,1,5.5,0,0,0,0,0,5.5,61,3,8,20000,0,16333 
+ 110,Shimmi C P,Karingachira Near PSK Kochi New,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,HI,P,26,0,0,0,0,0,0,0,0,1,7,0,15200,0,15200 
+ 111,Sifin P S,Kochi Main,P,P,P,P,HI,P,S,HI,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,7,0,22,0,0,0,0,0,22,58,5,2,12000,0,3200 
+ 112,Siji Anil,Kochi Main,HI,L,P,L,L,P2,L,P,P2,P2,HI,P,P,L,HI,P,P2,P,L,P,LC,HI,P,P,P,P,HI,S,P,HI,19,4,9,0,0,0,1,0,8,78,22,5,22000,0,16133 
+ 113,Silpa Raj C,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,HI,P,S,P,P,24,0,3,0,0,0,0,0,3,58,6,18,15200,0,13680 
+ 114,Silvy Jacob,Kochi Main,P,P,P,HI,L,P,S,P,P,P,P,P,L,S,P,P,P,P,P2,P,S,P,P,P,P,P,P,S,P,P,23,1,2.5,0,0,0,0,0,2.5,25,22,3,27000,0,24750 
+ 115,Sindhu S Sreedharan,Mallapally  KOC,P,P,P,HI,L,L,L,HI,HI,L,P,P,P,L,HI,P,HI,P,HI,HI,S,P,P,HI,HI,P,P,S,HI,P,23,0,5,0,0,0,0,0,5,56,22,1,11000,0,9167 
+ 116,Sindulekshmi K A,Chengannur  KOC,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P2,P,P,P2,P,P,L,P,P,P,P,P,P,S,P,P,23,2,3,0,0,0,0,0,3,0,23,0,13000,0,11700 
+ 117,Sini P Shaji,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,P2,S,P,P,P,P,L,P,C,P,P,P,P,P,P,S,P,P,23,1,4.5,0,0,0,1,0,3.5,51,0,12,21000,0,18550 
+ 118,Sini P S,Karingachira Near PSK Kochi New,P,P,P,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,HI,P,S,P,P,P,P,L,P,S,P,P,22,0,5,0,0,0,0,0,5,4,9,0,14000,0,11667 
+ 119,Snisha Chandran,Calicut West Hill,P,P,P,P,L,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,25,0,1,0,0,0,0,0,1,0,23,0,15200,0,14693 
+ 120,Soumya M P,Vazhuthacaud TVM,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,L,L,L,L,L,P,P,P,HI,P,P,S,P,P,20,0,8,0,0,0,0,0,8,2,5,12,15200,0,11147 
+ 121,Soumya V,Neyyattinkara TVM,P,P,P,L,L,L,L,P,P,P,P,P,L,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,22,0,5,0,0,0,0,0,5,0,0,22,15200,0,12667 
+ 122,Sruthi R,Karingachira Near PSK Kochi New,L,L,L,L,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,20,0,7,0,0,0,0,0,7,0,0,0,18000,0,13800 
+ 123,Sudha S Nair,Thiruvalla  KOC,HI,HI,HI,L,L,L,L,HI,P,HI,P,P,P,S,P,HI,HI,HI,HI,P,S,HI,P,P,P,HI,P2,S,HI,HI,22,1,4.5,0,0,0,0,0,4.5,64,5,23,15200,0,12920 
+ 124,Sumadevi S,Palakkad   KOC,HI,P,HI,P2,L,L,L,HI,P,P,HI,HI,P,S,P,HI,HI,HI,HI,P,S,HI,HI,P,HI,P2,P,S,HI,P,22,2,4,0,0,0,0,0,4,53,24,2,15500,0,13433 
+ 125,Sumija P S,Kochi Main,P,P,P,HI,L,P,S,P,P,P,P,P,P,S,P,HI,P,P,P,P,S,P,P,P,P,P,L,C,P,P,25,0,2,0,0,0,1,0,1,31,7,1,30000,0,29000 
+ 126,Suneel Hariram,Delhi DCM New Building,P,P,P,P,HI,P2,S,P,P,P,P,P,HI,S,P,P,P,HI,P,P,S,P,HI,HI,P,HI,P,S,P,HI,25,1,0.5,0,0,0,0,0,1,220,12,10,19500,0,18850 
+ 127,Surya M S,Kochi Main,P,P,P,HI,L,L,L,P,P,P,P,P,L,C,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,24,0,4,0,0,0,1,0,3,42,13,3,14000,0,12600 
+ 128,SWAPNA S,Neyyattinkara TVM,P,P,P,P,L,L,L,P2,P,P,P,P,P,L,P2,P,P,P,P,P,L,L,P,P,P,P,P,L,P,P,21,2,8,0,0,0,0,0,8,0,1,22,11000,0,8067 
+ 129,Swathy C S,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,15200,0,0 
+ 130,Swathysree G,Kochi Main,L,P,P,HI,L,P,L,P,P,P,P,P,P2,S,P,P,P,P,P,P2,S,P,P,P,P,P,P,S,P,P,22,2,4,0,0,0,0,0,4,30,3,21,17500,0,15167 
+ 131,Theresa Thomas,Kottayam,P,P,P,P,L,P,S,P,P,P,P,P,P,S,L,P,P,P,P,P,L,P,P,P,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,0,0,22,15200,0,13680 
+ 132,Treasa Kuriakose,Karingachira Near PSK Kochi New,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,0,9,2,50000,0,50000 
+ 133,Tulsi Delhi,Delhi DCM New Building,P,P,P,P,L,P,S,P,P,P,P,P,HI,S,P,P,P,P,HI,P,S,HI,HI,P,P,P,L,S,P,P,24,0,2,0,0,0,0,0,2,72,0,23,16200,0,15120 
+ 134,V Deepa,Aminjikarai Chennai III   KOC,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,2HI,S,P,P,25,1,0.5,0,0,0,0,0,0.5,2,24,1,15200,0,14947 
+ 135,Vaisakh T S,Karingachira Near PSK Kochi New,P,P,P,P,L,L,L,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,HI,P,P,P,S,P,P,24,0,3,0,0,0,0,0,3,41,2,0,15000,0,13500 
+ 136,Vincy Varghese,Kochi Main,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,21200,0,0 
+ 137,Vishal P,Karingachira Near PSK Kochi New,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,L,0,0,30,0,0,0,0,0,30,0,0,0,20000,0,0 
+ 138,VISHAL ARUN CHEMBURKAR,Mumbai,P,P,P,P,P,HI,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,P,P,P,P,S,P,P,26,0,0,0,0,0,0,0,0,41,20,2,18200,0,18200 
+ 

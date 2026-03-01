@@ -1,0 +1,8 @@
+{items: [
+    {id: "edit_candidate_details", text: "Candidate Details", icon: "recent.png", selected: true},
+    {type: "separator"},
+    {id: "edit_certificate_details", text: "Documents", icon: "desktop.png"},
+    {type: "separator"},
+    {id: "edit_payment_details", text: "Payment Details", icon: "downloads.png"},
+    {type: "separator"}
+]}

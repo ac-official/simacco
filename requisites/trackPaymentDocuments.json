@@ -1,0 +1,15 @@
+[
+    {type: "settings", position: "label-left", labelWidth: 150, inputWidth: 80, offsetLeft : 10},
+    
+        {type: "block", inputWidth: "auto", list: [
+            {type: "template", name:"paymentDetailsDocsValue", label: "Attestation Documents ", value: ": 0 Nos: ", offsetTop : 20},
+            {type: "newcolumn"},
+            {type: "template", name:"paymentDetailsDocsPopUp", label: "", value: "<img src='images/icon/info_18.png' style=\"margin-top:15px;\" onclick=\"preTally.Track.showPDDInfo(this,'DD');\" />", labelWidth: 0, inputWidth: 20, offsetLeft : 10},
+        ]},
+        {type: "block", inputWidth: "auto", list: [
+            {type: "template", name:"paymentDetailsSuppDocsValue", label: "Supporting Documents ", value: ": 0 Nos: ", offsetTop : 20},
+            {type: "newcolumn"},
+            {type: "template", name:"paymentDetailsSuppDocsPopUp", label: "", value: "<img src='images/icon/info_18.png' style=\"margin-top:15px;\" onclick=\"preTally.Track.showPDDInfo(this,'DS');\" />", labelWidth: 0, inputWidth: 20, offsetLeft : 10},
+        ]},
+
+]
