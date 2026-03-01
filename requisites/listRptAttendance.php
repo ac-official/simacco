@@ -1918,14 +1918,14 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                                 }
                                 if (!empty($otherMonthFridaySaturday)) {
                                     $prevMonthComSalary = 1;
-                                    $cwp +=($cmleaveValue==2)?1:$cmleaveValue;
+                                    $cwp += min($cmleaveValue, 1);
                                     $cmpnstry -= 1;   
                                 }
                             }elseif($sundayCellValue=="P2" || $sundayCellValue=="2HI"){
                                 $sundayCellValue = "C";
                                 if (!empty($otherMonthFridaySaturday)) {
                                     $prevMonthComSalary = 0.5;
-                                    $cwp +=($cmleaveValue==2)?1:$cmleaveValue;
+                                    $cwp += min($cmleaveValue, 0.5);
                                     $cmpnstry -= 0.5;
                                 }
                             }
@@ -1933,7 +1933,6 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                             {
                                 $sundayCellValue = "LC";
                                 $lcFlag = true;
-                                // $lcCount += 1;
                                 // $absentact -= 1;
                             }
                         }
@@ -1943,7 +1942,6 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                             $sundayCellValue = "C";
                             if(!empty($otherDayDatesForCompensatory)){
                                 $sundayCellValue = "LC";
-                                $lcCount += 1;
                                 $lcFlag = true;
                             }
                         }elseif(($sundayCellValue=="P2" || $sundayCellValue=="2HI") && (!empty($dayDatesForCompensatory))) {
@@ -1957,7 +1955,6 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                                 $sundayCellValue = "C";
                                 if(!empty($otherDayDatesForCompensatory)){
                                     $sundayCellValue = "LC";
-                                    // $lcCount += 1;
                                     $lcFlag = true;
                                 }
                             }elseif($sundayCellValue=="P2" || $sundayCellValue=="2HI"){
@@ -1970,7 +1967,6 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                                     $absentact += 1;
                                 }
                                 $sundayCellValue = "LC";
-                                // $lcCount += 1;
                                 $lcFlag = true;
                             }
                         }
@@ -2017,6 +2013,11 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                     $absentact  += 1;
                 }
             }
+
+            if ($cellValue == "LC") {
+                $lcCount += 1;
+            }
+
             // late sign in  and early sign out total calcualtaions
             $reqdsin    = strtotime($intime); 
             $reqdsout   = strtotime($outtime); 
