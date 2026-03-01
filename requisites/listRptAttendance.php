@@ -1918,14 +1918,14 @@ $filedata .= ''.$slno.','.$rw['US_EMPID'].','.$rw['US_FName'].' '.$rw['US_LName'
                                 }
                                 if (!empty($otherMonthFridaySaturday)) {
                                     $prevMonthComSalary = 1;
-                                    $cwp +=($cmleaveValue==2)?1:$cmleaveValue;
+                                    $cwp += min($cmleaveValue, 1);
                                     $cmpnstry -= 1;   
                                 }
                             }elseif($sundayCellValue=="P2" || $sundayCellValue=="2HI"){
                                 $sundayCellValue = "C";
                                 if (!empty($otherMonthFridaySaturday)) {
                                     $prevMonthComSalary = 0.5;
-                                    $cwp +=($cmleaveValue==2)?1:$cmleaveValue;
+                                    $cwp += min($cmleaveValue, 0.5);
                                     $cmpnstry -= 0.5;
                                 }
                             }
